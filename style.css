@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* -----------------navbar--------------------- */
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #001F3F;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 90px;
+}
+.list{
+    display: flex;
+    padding: 20px;
+}
+li{
+    padding: 10px 20px;
+    list-style-type: none;
+    color: #8D8D8D;
+    font-weight: 500;
+    font-size: 17px;
+    cursor: pointer;
+}
+.home{
+    color: #fff;
+}
+.contactlink{
+    text-decoration: none;
+    color: #fff;
+    background-color: #00A6FB;
+    width: 133px;
+    height: 33px;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 6px;
+}
+.logo{
+    width: 126px;
+    height: 39px;
+    padding-top: 20px;
+}
+/* -----------------section1--------------------- */
+.sec1{
+    padding-left: 100px;
+    padding-right: 100px;
+    background-image: url('../longboat/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    height: 75vh;
+}
+.part1{
+    position: relative;
+    top: 80px;
+}
+.t1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    color: #fff;
+}
+.p1{
+    padding-top: 20px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    color: #fff;
+}
+.part2{
+    position: relative;
+    top: 120px;
+    display: flex;
+    justify-content: center;
+}
+.cart{
+    margin: 30px;
+    background-color: #001F3F;
+    padding: 10px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.rec1{
+    width: 295px;
+    height: 143px;
+}
+.t2{
+    font-weight: 600;
+    font-size: 22px;
+    text-align: center;
+    color: #fff;
+}
+/* -----------------section2--------------------- */
+.sec2{
+    background-color: #001F3F;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+}
+.t3{
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    color: #fff;
+}
+.carda{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    position: relative;
+    top: 50px;
+    width: 33%;
+    height: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #001B37;
+    padding: 25px;
+    border-radius: 18px;
+    border: solid 1px rgba(128, 128, 128, 0.423);
+}
