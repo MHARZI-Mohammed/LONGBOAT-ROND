@@ -255,3 +255,82 @@ li{
     bottom: 30px;
 }
 /* -----------------section6--------------------- */
+.sec6{
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #BCD1E7;
+    height: 75vh;
+}
+.twop3{
+    display: flex;
+}
+.img4{
+    width: 500px;
+    height: 500px;
+}
+.img5{
+  padding-left: 100px;
+  padding-top: 100px;
+}
+form{
+    display: block;
+    padding-top: 10px;
+}
+input{
+    display: block;
+    margin-left: 100px;
+    width: 600px;
+    height: 40px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 12px;
+    padding-left: 20px;
+}
+.mess{
+    display: block;
+    margin-left: 100px;
+    width: 600px;
+    height: 100px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 12px;
+    padding-left: 20px;
+}
+.sub{
+    display: block;
+    margin-left: 100px;
+    width: 620px;
+    height: 40px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 12px;
+    background-color: #00A6FB;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+}
+/* -----------------section7--------------------- */
+footer{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #001F3F;
+}
+.dvv{
+    display: flex;
+    justify-content: space-between;
+}
+.img6{
+    padding-left: 30px;
+}
+.img7{
+    display: block;
+    padding-top: 15px;
+}
+.img0{
+    position: relative;
+    left: 500px;
+    top: 50px;
+    padding-bottom: 10px;
+}
