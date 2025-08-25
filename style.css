@@ -146,8 +146,8 @@ li{
 /* -----------------section3--------------------- */
 .sec3{
     background-color: #BCD1E7;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
     padding-top: 100px;
     height: 40vh;
 }
@@ -222,3 +222,36 @@ li{
     margin-left: 20px;
     margin-top: 10px;
 }
+/* -----------------section5--------------------- */
+.sec5{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    height: 40vh;
+}
+.twop2{
+    display: flex;
+}
+.txt4{
+    background-color: #fff;
+    padding-left: 50px;
+}
+.t8{
+    color: #001F3F;
+    font-weight: 700;
+    font-size: 40px;
+}
+.para6{
+    color: #6A6A6A;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 30px;
+}
+.img3{
+    width: 520px;
+    height: 350px;
+    position: relative;
+    left: 130px;
+    bottom: 30px;
+}
+/* -----------------section6--------------------- */
